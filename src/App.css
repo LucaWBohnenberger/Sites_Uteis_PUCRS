@@ -1,5 +1,12 @@
-.page{
+.page {
   width: 100vw;
   height: 100vh;
   background: #353535;
+}
+
+@media (max-width: 768px) {
+  .page {
+    width: 100%;
+    height: auto;
+  }
 }
