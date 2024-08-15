@@ -8,9 +8,27 @@
   display: flex;
   gap: 5rem;
 }
+
+.rodape{
+  display: flex; 
+  align-items: flex-end; 
+  justify-content: flex-end; 
+  flex-direction: column;
+}
+
 @media screen and (max-width: 768px) {
+  .page{
+    height: auto;
+  }
   .page2 {
     flex-direction: column;
     gap: 2rem;
+  }
+
+  .rodape{
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: 2rem;
   }
 }
