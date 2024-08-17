@@ -6,6 +6,7 @@ function App() {
 
 
   return (
+    <>
     <div className='page'>
       <div className='page2' >
         <div style={{ display: 'flex', gap: '1rem', flexDirection: 'column', justifyContent: 'center', alignItems: 'center' }}>
@@ -36,14 +37,18 @@ function App() {
           <Button text="Intranet?" link="https://intranet.pucrs.br/" />
         </div>
       </div>
-      <div className="rodape">
-        <div style={{ display: 'flex', flexDirection: 'column' }}>
-          <p style={{ display: 'flex', margin: '0' , color: 'white' }} >Site por Luca W. Bohnenberger</p>
-          <input style={{ backgroundColor: '#353535', border: '0', color: 'white' }} type="button" value="Contato" onClick={() => window.open('https://github.com/LucaWBohnenberger')} />
-        </div>
-      </div>
+      
     </div>
 
+    <br />
+    
+    <div className="rodape">
+    <div style={{ display: 'flex', flexDirection: 'column', padding: '10px 2%' }}>
+      <p style={{ display: 'flex', margin: '0' , color: 'white' }} >Site por Luca W. Bohnenberger</p>
+      <input style={{ backgroundColor: '#353535', border: '0', color: 'white', textDecoration: 'underline', cursor: 'pointer' }} type="button" value="Contato" onClick={() => window.open('https://github.com/LucaWBohnenberger')} />
+    </div>
+    </div>
+    </>
   )
 }
 
