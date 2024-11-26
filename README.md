@@ -1,3 +1,15 @@
-# Sites Úteis para alunos da Pólitecnica da PUCRS
+# 🌐 Sites Úteis para Alunos da Politécnica da PUCRS
 
-Esse site foi criado com o intuito de facilitar o acesso a sites importantes que são complicados de encontrar pelo site oficial da pucrs, além de centralizar essa informção em só um local. O repositório é aberto para quem quiser pegar os links pelo código sem acessar através do github pages. Caso tenha alguma sugestão de site para adicionar, basta me contatar pelo meu email l.bohnenberger002@edu.pucrs.br
+Este site foi criado para **centralizar e facilitar o acesso** a links importantes que podem ser difíceis de encontrar no site oficial da PUCRS. 🎓💻  
+
+💡 **Objetivo:**  
+Simplificar a navegação para os estudantes, reunindo tudo em um único lugar.  
+
+📂 **Acesso ao Repositório:**  
+O repositório é público e você pode acessar os links diretamente pelo código fonte, sem a necessidade de abrir o site no GitHub Pages.  
+
+📬 **Sugestões:**  
+Se tiver algum site para sugerir, entre em contato pelo e-mail:  
+✉️ **l.bohnenberger002@edu.pucrs.br**
+
+✨ Contribuições são sempre bem-vindas! 🚀
