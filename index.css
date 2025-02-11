@@ -12,10 +12,11 @@ body {
 }
 
 main {
-    display: flex;    
+    display: flex;
     justify-content: center;
     align-items: top;
-    width: 100%; /* Alterado de 100vw para 100% */
+    width: 100%;
+    /* Alterado de 100vw para 100% */
 }
 
 @media (max-width: 767px) {
