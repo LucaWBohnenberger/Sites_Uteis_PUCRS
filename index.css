@@ -100,3 +100,33 @@ button {
     border: none;
     transition: background-color 0.3s ease, transform 0.3s ease;
 }
+
+
+
+.github{
+    width: 5rem;
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    background-color: var(--third-dark);
+    transition: all 0.3s;
+    border: 4px solid black;
+    border-radius: 0.4rem;
+    background-color: #d9d9d9;
+}
+
+@media screen and (min-width: 769px) {
+    .github:hover {
+        background-color: #b4b4b4;
+        transform: matrix(1.1, 0, 0, 1.1, 0, 0);
+    }
+}
+
+.divisor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
